@@ -10,6 +10,9 @@ for (let i = 1; i <= 100; i++) {
     } else if (i % 3 === 0) {          //* 3. OPPURE SE il numero è solo multiplo di `3`, viene stampato in console “Fizz”.
         console.log("Fizz");
 
+    } else if (i % 5 === 0) {          //* 4. OPPURE SE il numero è solo multiplo di `5`, viene stampato in console “Buzz”.
+        console.log("Buzz");
+
     } else {                          //* 5. OPPURE viene stampato solo il numero.
         console.log(i);
     }
