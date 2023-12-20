@@ -37,3 +37,13 @@ Puoi usare varie tecniche  (template literals, innerHTML, appendecc)
 - Applica stili differenti agli elementi aggiunti al DOM nel BONUS 1, a seconda che il valore inserito sia un numero, un fizz, un buzz o un fizzbuzz.
 Come abbiamo visto puoi  usare varie tecniche (style , className, classList).
 Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
+
+---
+
+## SCOMPOSIZIONE PROBLEMA - Come strutturare la consegna (Punto 3)
+
+1. Creo un ciclo che stampa in console numeri da `1` a `100`.
+1. **SE** il numero è multiplo sia di `3` che di `5`, viene stampato in console “FizzBuzz”.
+1. **OPPURE SE** il numero è solo multiplo di `3`, viene stampato in console “Fizz”.
+1. **OPPURE SE** il numero è solo multiplo di `5`, viene stampato in console “Buzz”.
+1. **OPPURE** viene stampato solo il numero.
