@@ -47,3 +47,13 @@ Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot f
 1. **OPPURE SE** il numero è solo multiplo di `3`, viene stampato in console “Fizz”.
 1. **OPPURE SE** il numero è solo multiplo di `5`, viene stampato in console “Buzz”.
 1. **OPPURE** viene stampato solo il numero.
+
+---
+
+### BONUS - 1
+
+1. Creo un contenitore (*row*) nel DOM e lo richiamo in una variabile.
+1. Creo una variabile (*value*) il cui valore viene assegnato dal ciclo che generare i numeri da 1 a 100, a seconda delle condizioni (se è un multiplo di 3, di 5, di entrambi o di nessuno).
+1. Creo un nuovo elemento (*col*) per ogni valore.
+1. Inserisco nell'elemento (*col*) il valore (*value*).
+1. Inserisco l'elemento(*col*) nel contenitore (row).
