@@ -10,6 +10,10 @@ body {
     border: 2px solid white;
     box-shadow: 1px 1px 5px grey;
     border-radius: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .col:hover {
